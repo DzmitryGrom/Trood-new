@@ -1,0 +1,44 @@
+html{
+	width: 100%;
+	height: 100%;
+}
+body{
+	background-image: url(../img/background.png);
+	background-repeat: no-repeat ;
+}
+.starter-template{
+	margin-top: 20px;
+}
+.starter-template .logo-trood{
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat ;
+	display: inline-block;
+	background-size: 80%;
+	width: 426px;
+	height: 141px;
+	
+}
+.starter-template .logo-ipad{
+	width: 800px;
+    height: 550px;
+}
+.starter-template .text-menu{
+	color: #0f1111;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+.footer-wrapper{
+	background-color: #253d4f;
+	text-align: center;
+}
+.footer-wrapper-list{
+	display: inline-block;
+	list-style-type: none;
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	margin: 20px 5% 20px 5%;
+}
+.footer-wrapper-list a{
+	color: #23c6c8;
+}
